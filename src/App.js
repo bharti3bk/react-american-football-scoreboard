@@ -33,7 +33,7 @@ function App() {
         </div>
         <div className="awayButtons">
           <button className="awayButtons__touchdown">Away Touchdown</button>
-          <button className="awayButtons__fieldGoal">Away Field Goal</button>
+          <button className="awayButtons__fieldGoal">Away Fields Goal</button>
         </div>
       </section>
     </div>
